@@ -5,7 +5,7 @@
 
 
 ## Description
-My lovely django project
+This is just following the tutorial provided by Django.
 
  ## Pip Install Instructions
 Please run the following:
